@@ -1,0 +1,2 @@
+"Hello World"
+"Please God let me learn the Command Line skills I need to be a fluent programmer"
